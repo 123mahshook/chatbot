@@ -8,8 +8,7 @@ This project is a starting point for a Flutter application. The project consist 
 - Splash Screen
 - Chat Screen
 
-The Splash Screen Just like mobile apps and chats screen provide features like user can with bot and find solution. It also provide name to Image
-generation facility. so the user can use app like a search engine to find  solution.
+The Splash Screen Just like mobile apps and chats screen provide features like user can chat with bot and find solution. It also provide name to Image generation facility. so the user can use app like a search engine to find  solution.
 
 on the Flutter code inside lib folder having a folder named features it includes both screens.
 
